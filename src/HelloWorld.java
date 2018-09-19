@@ -3,6 +3,7 @@ public class HelloWorld {
 		// komentaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar
 		//ako ze nemam rad taky dlhy komentar, ale premenne mam rad
 		int i=9;
-		double b = 0;
+		// dalsi komentaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar
+		double c = 0;
 	}
 }
